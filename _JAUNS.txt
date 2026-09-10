@@ -1,25 +1,34 @@
-Redakcija 06 — 11.09.2026
+Redakcija 07 — 11.09.2026 — Jana sarkanie komentari
 
-FREST DIZAINA VALODA visos katalogos.
-Lidz sim katalogs izmantoja oranzu #F26A1B uz silti baltas — tada tona Frest
-palete nav vispar. Tagad viss ir uz zimola markieriem:
+1. VAKS ir pilna platuma. Renderis aiznem visu ekranu; teksts sez apaksa pa
+   kreisi uz dalēji caurspidiga Frest panela, tapec tas neaizsedz maju un
+   stradaa gan uz gaisa ziemas, gan uz tumsa vakara kadra.
 
-  - fons ir gaisi ciana migla, nevis pliks baltums; saturs sez ka baltas
-    apalas kartes ar mikstu enu
-  - tumsas sadalas ir dzila petroleja (#0c2429), nevis melns
-  - akcents ir Frest ciana (#50d1e0); dzeltenais ir viens izcelums
-  - Aura sezija iet ciana, Als — dzeltena (ta pati kartiba, kas majaslapas izvelne)
-  - burti Work Sans; tehniskais mono paliek kodiem, cenam un nolasijumiem
-  - kartes 26 px, pogas pilnigi apalas, atteli 16 px
+2. FAKTU JOSLA parbuveta. Ieprieks skaitli un paraksti uzkapa viens otram
+   virsu — tagad tas ir cetras kartes ar akcenta svitru.
 
-MATERIALS TUVPLANA — jauns.
-Katrai izvelei ir poga, kas atver materialu tuvplana. Divi avoti, un lasitajam
-vienmer ir pateikts, kurs no tiem:
-  - izgriezums no musu pasa rendera (visi cetri toni, metals, betona dakstins)
-  - zimeta klajuma shema tur, kur rendera vel nav (C1 Cedral dimanta klajums)
-Shema nekad neizliekas par foto, un blakus ir rakstits, ka realu paraugu radam
-tiksanas reize. Tas pats mehanisms deres jebkurai naakotnes izvelei bez rendera.
+3. PLANI vairs neaiznem visu lapu. Viens ramis ar stavu izvelni (1. stavs /
+   benini / mezanins), un blakus VIENA tabula, kur ekas parametri un telpu
+   eksplikacija ir kopa.
 
-D1 tagad ir vienkarsi "Betona dakstins".
+4. KONFIGURATORS uz tumsa: izveleta kartite ir gaisa ar tumsiem burtiem;
+   neizveletas ieaug fona, ka prasits.
+
+5. MODULI. Aura lapas rada tikai Auras renderus (anekss aci limeni un no
+   gaisa). Autonojumei Aura rendera nav — izvelne palikusi, bet attela vieta
+   ir godigs pazinojums. Als lapas rada Als 3D modeli no VIENA skata, kur
+   mainas tikai piebuve un gaisma — ka majaslapa.
+
+6. IZNEMTAS SLIKTAS BILDES: terases kadrs, saulrieta renderis, "als 110"
+   attels ar iededzinatu tekstu, un dublejosaas Als lapas.
+
+7. PILNA PLATUMA PLAKSNES: teksts uz dalēji caurspidiga panela, nevis tiesi
+   uz rendera. Melns teksts uz gaisas bildes vairs nav.
+
+8. SECIBAS iet pasas no sakuma (paplasinasanas ainas un Aura 110 interjeri),
+   ar pauzes ikonu un dissolve pareju.
+
+9. SAULES un SEZONAS parslegs paliek tikai Aura 70 — parejiem modeliem sadu
+   kadru vel nav.
 
 Parbaudits: 6 lapas x 2 platumi, nulle JS kludu, nulle horizontalas parpludes.
