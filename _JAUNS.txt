@@ -1,0 +1,28 @@
+Redakcija 05 — 10.09.2026
+
+Kas mainījās:
+
+1. PERSONALIZĀCIJAS RĪKS visos četros modeļos.
+   Fasādes tonis x jumta segums vienā rāmī, 4 x 4 = 16 kombinācijas.
+   Katram modelim savi renderi (Als 70 un Als 110 dala vienu komplektu).
+   Pogas ar ISTU materiala paraugu, izgrieztu no ta pasa rendera.
+   Jumta izvele iet abos virzienos ar konfiguratoru zemak.
+   "Vairak par so toni" un "Vairak par so jumtu" — materialu lapas ar specifikaciju.
+   D1 tagad ir "Betona vilnotais jeb klasiskais dakstins" (ka rada renderis).
+
+2. AURA 110 JAUNS VAKS — vakara renderis no Update renders - extra mapes.
+   Vecais renderis vairs netiek lietots nekur.
+
+3. INTERJERA STILU PARSLEGS (Aura 110, sadala "Stili").
+   Viena kamera, tris apdares, atra parlaidiena.
+
+4. PAPLASINASANAS SECIBA (Aura 70, sadala "Augsana").
+   Viens gaisa skats, tris stadijas: viena maja -> maja + anekss -> divas vienibas.
+   Iet automatiski, kad nonak ekrana; apstajas, tiklidz lasitajs pieskaras.
+
+5. PILNA PLATUMA PLAKSNES — renderis ka fons ar tekstu virsu, katram modelim viena.
+
+6. AURA TWIN (auratwin/) — zemesgabala rekinatajs, modelu matrica, paplasinasanas cels.
+
+Parbaudits: 6 lapas x 2 platumi, nulle JS kludu, nulle horizontalas parpludes.
+Varti: visi pieci PASS, ieskaitot cenu sakritibu abos tirgos.
