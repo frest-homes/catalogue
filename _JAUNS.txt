@@ -1,34 +1,22 @@
-Redakcija 07 — 11.09.2026 — Jana sarkanie komentari
+Redakcija 08 — 11.09.2026
 
-1. VAKS ir pilna platuma. Renderis aiznem visu ekranu; teksts sez apaksa pa
-   kreisi uz dalēji caurspidiga Frest panela, tapec tas neaizsedz maju un
-   stradaa gan uz gaisa ziemas, gan uz tumsa vakara kadra.
+ALS MODULARIE PAPILDINAJUMI — no Jana 3D renderiem.
 
-2. FAKTU JOSLA parbuveta. Ieprieks skaitli un paraksti uzkapa viens otram
-   virsu — tagad tas ir cetras kartes ar akcenta svitru.
+Sesi novietojumi uz viena un ta pasa gabala, no vienas kameras:
+  1  Bez moduliem                 bazes novietojums
+  2  Autonojume            +13 500 EUR
+  3  Dzivojama piebuve     +55 000 EUR
+  4  Spogulots + autonojume +13 500 EUR
+  5  Spogulots + piebuve   +55 000 EUR
+  6  Dubultmaja           +179 000 EUR
 
-3. PLANI vairs neaiznem visu lapu. Viens ramis ar stavu izvelni (1. stavs /
-   benini / mezanins), un blakus VIENA tabula, kur ekas parametri un telpu
-   eksplikacija ir kopa.
+Studijas pelekais fons ir nonemts — plaksne peld uz lapas miglas, nevis sez
+peleka kaste. Renderi ir WebP ar alfu, tapec lapa paliek tada izmera, ko var
+iesifret un augsupieladet.
 
-4. KONFIGURATORS uz tumsa: izveleta kartite ir gaisa ar tumsiem burtiem;
-   neizveletas ieaug fona, ka prasits.
+Katrai izvelei tagad ir divi teksti: isais, kas pasaka, ko redz, un garais, kas
+pasaka, kapec to izvelas. Teksts mainas lidzi izvelei, ka prasits.
 
-5. MODULI. Aura lapas rada tikai Auras renderus (anekss aci limeni un no
-   gaisa). Autonojumei Aura rendera nav — izvelne palikusi, bet attela vieta
-   ir godigs pazinojums. Als lapas rada Als 3D modeli no VIENA skata, kur
-   mainas tikai piebuve un gaisma — ka majaslapa.
-
-6. IZNEMTAS SLIKTAS BILDES: terases kadrs, saulrieta renderis, "als 110"
-   attels ar iededzinatu tekstu, un dublejosaas Als lapas.
-
-7. PILNA PLATUMA PLAKSNES: teksts uz dalēji caurspidiga panela, nevis tiesi
-   uz rendera. Melns teksts uz gaisas bildes vairs nav.
-
-8. SECIBAS iet pasas no sakuma (paplasinasanas ainas un Aura 110 interjeri),
-   ar pauzes ikonu un dissolve pareju.
-
-9. SAULES un SEZONAS parslegs paliek tikai Aura 70 — parejiem modeliem sadu
-   kadru vel nav.
+Tas pats komplekts ir ari Als 70 lapa, bez publicetajam cenam.
 
 Parbaudits: 6 lapas x 2 platumi, nulle JS kludu, nulle horizontalas parpludes.
