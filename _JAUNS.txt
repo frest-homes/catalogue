@@ -1,22 +1,47 @@
-Redakcija 08 — 11.09.2026
+rev-09 — 11.09.2026
 
-ALS MODULARIE PAPILDINAJUMI — no Jana 3D renderiem.
+KO ŠĪ REDAKCIJA MAINA
 
-Sesi novietojumi uz viena un ta pasa gabala, no vienas kameras:
-  1  Bez moduliem                 bazes novietojums
-  2  Autonojume            +13 500 EUR
-  3  Dzivojama piebuve     +55 000 EUR
-  4  Spogulots + autonojume +13 500 EUR
-  5  Spogulots + piebuve   +55 000 EUR
-  6  Dubultmaja           +179 000 EUR
+Menu
+  · Augšējā izvēlne tagad paliek redzama visu lapu. Iepriekš tā aizritēja prom, jo
+    html/body bija uzlikts overflow-x:hidden — tas klusi izslēdz position:sticky.
+  · Aktīvā sadaļa izvēlnē iekrāsojas (Aura — ciāns, Als — dzeltens) un zem joslas
+    iet plāna progresa līnija: cik tālu lapā esi.
+  · Uz telefona josla ir viena zema rinda, kas ritinās sāniski un pati pieritina
+    aktīvo sadaļu redzamā vietā. Aizņem 53 px.
 
-Studijas pelekais fons ir nonemts — plaksne peld uz lapas miglas, nevis sez
-peleka kaste. Renderi ir WebP ar alfu, tapec lapa paliek tada izmera, ko var
-iesifret un augsupieladet.
+Bildes (Screenshot_4, 5, 7)
+  · Pilna platuma bildes vairs nav 100vw platas. Tās ir 1560 px — mazliet platākas
+    par izvēlni — un tām ir pašu renderu proporcija 16:9. Uz plata ekrāna sānos
+    paliek gaišs lapas fons, nevis izstiepts kadrs.
+  · Rezultāts: māja atkal ietilpst kadrā. Als 110 nakts plāksne un Aura 110 ziemas
+    un priekšpilsētas plāksnes vairs nav pietuvinātas.
 
-Katrai izvelei tagad ir divi teksti: isais, kas pasaka, ko redz, un garais, kas
-pasaka, kapec to izvelas. Teksts mainas lidzi izvelei, ka prasits.
+Als 110 (Screenshot_1, 2)
+  · Pauzes lapa “Vakarā mājas siluets kļūst par lampu” izņemta.
+  · Vāka teksta panelis pārcelts uz labo pusi — māja renderī paliek brīva. Puse
+    tagad ir modeļa iestatījums (cover_side), tāpēc to var mainīt katram vākam.
 
-Tas pats komplekts ir ari Als 70 lapa, bez publicetajam cenam.
+Telpas (Screenshot_3, 6)
+  · Pietuvinātie 3D plānojuma kadri (doll house) izņemti no Als 110, Aura 110 un
+    Als 70. Katrā paliek viena laba bilde platākā izkārtojumā:
+      Als 110  — viesistaba ar mezanīnu + realizēts objekts (foto)
+      Aura 110 — viesistaba «Silts koks» + saite uz trim interjera stiliem
+      Als 70   — pilna augstuma stiklojums + divas realizētu māju fotogrāfijas
 
-Parbaudits: 6 lapas x 2 platumi, nulle JS kludu, nulle horizontalas parpludes.
+Moduļi (Screenshot_8)
+  · Aurā nospiežot “Autonojume kreisajā” vairs neuzlec Als renderis. Bilde nemainās,
+    paliek bāzes skats, un virsū uznāk godīga piezīme: šai kombinācijai rendera vēl
+    nav, bet varam to sagatavot piedāvājumam. Poga paliek spiežama, tikai atzīmēta.
+
+Aura Twin (Screenshot_9)
+  · Kartītē “Pievieno aneksu” Als anekss nomainīts pret Aura 70 ar aneksu.
+
+ANGĻU IZDEVUMS (fresthomes.com)
+  · Visi četri modeļi tagad ir arī angliski, ar Īrijas/ES tirgus cenām bez PVN.
+  · Cena nāk no Lab publicētajām cenām (frest-pricing/published.json). Konfiguratora
+    izvēļu starpības tiek pārrēķinātas pa to pašu publicēto ķēdi, kas veido Īrijas
+    modeļa cenu, tāpēc kopsumma vienmēr sakrīt ar cenu tabulu vārtu lapā.
+  · PVN rindas angļu izdevumā netiek izvadītas vispār — PVN, transports, pamati un
+    pieslēgumi tiek precizēti projektam, un lapa to pasaka tur, kur skaitlis ir.
+  · .com vārtos modeļu dokumenti vairs nav latviešu dokumenti ar noslēptām cenām.
